@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "1dadc2c78847f7e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b1ca3ebc0812e2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0595d6a8c705e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "运筹优化类/图论/最短路径.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8ca316f12768085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "运筹优化类/图论/最短路径.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "756f4f65c76ddbc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "运筹优化类/图论/最小生成树.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a2b6ab5c8d40a27",
+    "type": "split",
+    "children": [
+      {
+        "id": "119d735646fd5884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c587d2706109da99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bf9f8f42b12ebd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#optimoptions",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8911421d0dfa938",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9fd75922faad1ca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d0ed9941fc34d6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b21c19082a387c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "运筹优化类/图论/最小生成树.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75fa2c9c63b53a60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "运筹优化类/图论/最小生成树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57f805af400eb68a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e35b6278173e9ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "运筹优化类/图论/最小生成树.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "756f4f65c76ddbc9",
+  "lastOpenFiles": [
+    "运筹优化类/图论/最短路径.md",
+    "运筹优化类/图论/最小生成树.md",
+    "扩展/最短路径常见算法.md",
+    "Matlab语法/遗传算法.md",
+    "运筹优化类/整数规划（Integer Programming, IP）.md",
+    "机理分析类/数值模拟.md",
+    "机理分析类/微分方程模型.md",
+    "机理分析类/传染病模型.md",
+    "运筹优化类/非线性规划（Nonlinear Programming，NLP）.md",
+    "运筹优化类/线性规划（Linear Programming, LP）.md",
+    "Matlab语法/牛顿法.md",
+    "Matlab语法/isnan（ ）.md",
+    "运筹优化类/图论",
+    "运筹优化类",
+    "Matlab语法/fmincon（非线性规划）.md",
+    "Matlab语法/拉格朗日乘数法.md",
+    "Matlab语法/solve(解方程).md",
+    "扩展/非线性求解方法.md",
+    "Matlab语法/梯度下降法.md",
+    "Matlab语法/syms.md",
+    "图片/Pasted image 20241007235632.png",
+    "Matlab语法/linprog（线性规划）.md",
+    "Matlab语法/diff.md",
+    "Matlab语法/vpasolve（解复杂方程）.md",
+    "Matlab语法/gradient 函数.md",
+    "图片/Pasted image 20241007234202.png",
+    "图片/Pasted image 20241007234024.png",
+    "扩展/fmincon多种求解算法.md",
+    "扩展/海森矩阵（Hessian Matrix）.md",
+    "图片",
+    "图片/Pasted image 20241007230728.png",
+    "Matlab语法/odefun     ode45（微分方程求解）.md",
+    "扩展/有限差分法.md",
+    "扩展",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "Matlab语法",
+    "机理分析类"
+  ]
+}
