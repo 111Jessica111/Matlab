@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1ca3ebc0812e2c",
+        "id": "1f9696e06be5a715",
         "type": "tabs",
         "children": [
           {
-            "id": "b0595d6a8c705e78",
+            "id": "728a3be79ebbd32d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运筹优化类/图论/最短路径.md",
+                "file": "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "b8ca316f12768085",
+            "id": "c19bd8b1ddb98f1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运筹优化类/图论/最短路径.md",
+                "file": "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "756f4f65c76ddbc9",
+            "id": "f05bd735e4fd929a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运筹优化类/图论/最小生成树.md",
+                "file": "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#optimoptions",
+                "query": "tag:#sortrows",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运筹优化类/图论/最小生成树.md",
+                "file": "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运筹优化类/图论/最小生成树.md",
+                "file": "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运筹优化类/图论/最小生成树.md"
+                "file": "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md"
               }
             }
           }
@@ -174,15 +174,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "756f4f65c76ddbc9",
+  "active": "f05bd735e4fd929a",
   "lastOpenFiles": [
+    "未命名.md",
+    "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md",
     "运筹优化类/图论/最短路径.md",
-    "运筹优化类/图论/最小生成树.md",
+    "Matlab语法/find.md",
+    "Matlab语法/sortrows.md",
     "扩展/最短路径常见算法.md",
     "Matlab语法/遗传算法.md",
-    "运筹优化类/整数规划（Integer Programming, IP）.md",
-    "机理分析类/数值模拟.md",
     "机理分析类/微分方程模型.md",
+    "机理分析类/数值模拟.md",
+    "运筹优化类/整数规划（Integer Programming, IP）.md",
     "机理分析类/传染病模型.md",
     "运筹优化类/非线性规划（Nonlinear Programming，NLP）.md",
     "运筹优化类/线性规划（Linear Programming, LP）.md",
@@ -204,11 +207,8 @@
     "图片/Pasted image 20241007234202.png",
     "图片/Pasted image 20241007234024.png",
     "扩展/fmincon多种求解算法.md",
-    "扩展/海森矩阵（Hessian Matrix）.md",
     "图片",
     "图片/Pasted image 20241007230728.png",
-    "Matlab语法/odefun     ode45（微分方程求解）.md",
-    "扩展/有限差分法.md",
     "扩展",
     "未命名.canvas",
     "未命名 1.canvas",
