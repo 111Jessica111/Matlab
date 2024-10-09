@@ -45,9 +45,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6a9cbc58dbdc475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "运筹优化类/启发式算法/模拟退火算法（Simulated Annealing, SA）.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "101701ce3f716c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matlab语法/norm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a18963081f78e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matlab语法/norm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -76,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sortrows",
+                "query": "tag:#Frobenius范数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md",
+                "file": "Matlab语法/norm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md",
+                "file": "Matlab语法/norm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md"
+                "file": "Matlab语法/norm.md"
               }
             }
           }
@@ -174,9 +213,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f05bd735e4fd929a",
+  "active": "6a18963081f78e96",
   "lastOpenFiles": [
-    "未命名.md",
+    "扩展/范数.md",
+    "Matlab语法/norm.md",
+    "运筹优化类/启发式算法/模拟退火算法（Simulated Annealing, SA）.md",
+    "运筹优化类/启发式算法",
     "运筹优化类/图论/最小生成树（Minimum Spanning Tree, MST）.md",
     "运筹优化类/图论/最短路径.md",
     "Matlab语法/find.md",
@@ -203,10 +245,8 @@
     "Matlab语法/linprog（线性规划）.md",
     "Matlab语法/diff.md",
     "Matlab语法/vpasolve（解复杂方程）.md",
-    "Matlab语法/gradient 函数.md",
     "图片/Pasted image 20241007234202.png",
     "图片/Pasted image 20241007234024.png",
-    "扩展/fmincon多种求解算法.md",
     "图片",
     "图片/Pasted image 20241007230728.png",
     "扩展",
